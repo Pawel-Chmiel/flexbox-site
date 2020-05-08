@@ -1,4 +1,4 @@
-# simple flexbox site exercise
+## simple flexbox site exercise
 
 ## Demo [here](https://pawel-chmiel.github.io/flexbox-site/)
 
